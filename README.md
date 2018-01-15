@@ -2,8 +2,6 @@
 
 ## Want to learn how to build this project?
 
-Check out the [blog post](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/#.WB3zyeErJE4).
-
 ## Want to use this project?
 
 1. Fork/Clone
@@ -15,4 +13,3 @@ Check out the [blog post](http://mherman.org/blog/2016/11/05/developing-a-restfu
 
 ## Sample Projects
 
-- [Simple whois REST API](https://github.com/wingsuitist/whoissv)
