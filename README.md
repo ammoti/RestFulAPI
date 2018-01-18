@@ -1,5 +1,5 @@
 # Developing a RESTful API With Node and TypeScript
-##Project Sturectıre
+## Project Sturectıre
     .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── src                     # Source files (alternatively `lib` or `app`)
@@ -28,6 +28,6 @@ If you call posts you have to call "/api/posts"
 If you call albums you have to call "/api/albums"
 If you call users you have to call "/api/users"
 
-##Auth
+## Auth
 You have to call api with this headers ==> [{"key":"Authorization","value":"Bearer af24353tdsfw","description":""}]
 
