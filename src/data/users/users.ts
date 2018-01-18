@@ -1,4 +1,5 @@
-[
+export default{
+  "Users": [
     {
       "id": 1,
       "name": "Leanne Graham",
@@ -229,4 +230,4 @@
         "bs": "target end-to-end models"
       }
     }
-  ]
+  ]}

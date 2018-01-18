@@ -1,4 +1,5 @@
-[
+export default {
+  "Albums":  [
     {
       "userId": 1,
       "id": 1,
@@ -499,4 +500,4 @@
       "id": 100,
       "title": "enim repellat iste"
     }
-  ]
+  ]}
